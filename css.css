@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-
+	font-family: 'Poppins', sans-serif;
 }
 
 img{
@@ -100,7 +100,7 @@ a:hover{
 .regre{
 	font-size: 30px;
 	color: rgb(50, 50, 50);
-	font-weight: 100;
+	
 }
 
 .regre:hover{
