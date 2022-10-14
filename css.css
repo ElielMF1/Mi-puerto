@@ -50,8 +50,8 @@ img{
 }
 
 .video{
+	height: 400px;
 	 width: 90%;
-	 
 	padding: 10px;
 	 display: flex;
 	 justify-content: center;
@@ -110,4 +110,20 @@ a:hover{
 .next{
 	display: flex;
 	justify-content: center;
+}
+
+@media screen and (max-width: 650px) {
+ 
+.video{
+	height: auto;
+	 width: 90%;
+	padding: 10px;
+	 display: flex;
+	 justify-content: center;
+}
+
+.regre{
+	font-size: 20px;
+}
+
 }
